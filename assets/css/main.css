@@ -1758,7 +1758,7 @@ input, select, textarea {
 		.image.avatar48 {
 			width: 80px;
 			height: 80px;
-			background: #f00;
+			background: white;
 		}
 
 			.image.avatar48 img {
@@ -2253,7 +2253,7 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
+				background-color: white;
 				background-image: url("../../images/background.png");
 				background-repeat: no-repeat;
 				background-position: 0px 0px;
